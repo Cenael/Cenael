@@ -8,8 +8,9 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>Sono un'entusiasta Web Developer.</p>
-    <p>  Sono una persona determinata e motivata a crescere professionalmente nel settore, adoro stare sempre aggiornata e imparare linguaggi e metodi nuovi. </p>
-  <p> Studio alla Steve Jobs Academy ed esploro Drupal, Next.js, PHP, JavaScript, HTML e CSS lavorando anche su piccoli progetti pratici. </p>
+    <p>  Sono una persona determinata e motivata a crescere professionalmente nel settore, adoro stare sempre aggiornata e imparare linguaggi e nuove tecnologie. </p>
+  <p> Studio alla Steve Jobs Academy ed esploro Drupal, Next.js, PHP, JavaScript e Typescript lavorando anche su piccoli progetti pratici.</p>
+    <p> Sto esplorando anche l'integrazione di IA in diversi campi, tra cui Drupal.</p>
 </div>
 <br>
 <br>
