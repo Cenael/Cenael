@@ -15,9 +15,9 @@
 <br>
 <br>
 <div align="center">
-    <h2> 🌍 Connect with Me</h2> </div>
+    <h2> 🌍 Connect with Me</h2>
   <a href="www.linkedin.com/in/rachael-censuales-b52b4827a"> <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
-
+ </div>
 <br>
 <br> 
 <br>
