@@ -20,8 +20,7 @@
  </div>
 <br>
 <br> 
-<br>
-<br>
+
 <div> 
 <div align="center">
     <h2> 💻 Technologies </h2>
