@@ -18,8 +18,6 @@
     <h2> 🌍 Connect with Me</h2>
   
 <a href="www.linkedin.com/in/rachael-censuales-b52b4827a"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.instagram.com/rachael.blue_/"> <img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" />
-<a href="https://www.facebook.com/RachaelCensuales/"> <img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 
 <br>
 <br> </div>
